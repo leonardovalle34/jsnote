@@ -16,8 +16,8 @@ const HomeScreen = ()=>{
                                 Create notes easily and access when you wants on the cloud
                             </Title>
                             <Title size={5} spaced className="has-text-light" subtitle>
-                                Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.<br/><br/>
-                                Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print.
+                                Have you imagined, having the chance to store all your notes on the clouds?
+                                Notes that you can access anywhere, everywhere? try our App. register for free!
                             </Title>
                             <a className="button is-outlined is-white is-large" href="/register">
                                 <p><strong/>Register for free</p>
