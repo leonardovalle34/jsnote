@@ -13,7 +13,7 @@ const HomeScreen = ()=>{
                     <Column.Group>
                         <Column size={5}>
                             <Title size={2} spaced className="has-text-white">
-                                Create notes easily and access when you wants on the cloud
+                                Create notes easily and access when you want on the cloud
                             </Title>
                             <Title size={5} spaced className="has-text-light" subtitle>
                                 Have you imagined, having the chance to store all your notes on the clouds?
