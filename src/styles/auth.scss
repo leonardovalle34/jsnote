@@ -1,0 +1,12 @@
+@import "./custom-colors";
+
+.auth{
+ background-color: $custom-purple;
+ min-height: calc(100% - 70px);
+
+}
+
+.center1{
+    display: flex;
+    justify-content: center;
+}
